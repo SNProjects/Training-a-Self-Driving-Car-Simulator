@@ -20,7 +20,7 @@ Training a self-driving car using a Convolutional Neural Network. The open sourc
 To install Udacity's Self Driving Car Simulator, follow the steps given in the following link:
 https://kikaben.com/introduction-to-udacity-self-driving-car-simulator/
 
-###Working
+##Working
 ##Training the model:
 To train the convolutional neural network, run the file named trainsimulation.ipynb. Then, open the simulator and run it the training mode. Collect data by pressing record button followed by pressing space bar on the keyboard to store screenshots of the current car position. Doing this also stores the car's data in a csv file such as steering angle, speed and throttle. 
 
