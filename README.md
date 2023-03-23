@@ -24,9 +24,10 @@ https://kikaben.com/introduction-to-udacity-self-driving-car-simulator/
 
 ## Working
 ## Training the model:
-To train the convolutional neural network, run the file named trainsimulation.ipynb. Then, open the simulator and run it the training mode. Collect data by pressing record button followed by pressing space bar on the keyboard to store screenshots of the current car position. Doing this also stores the car's data in a csv file such as steering angle, speed and throttle. 
+To train the convolutional neural network, run the file named trainingSimulation.ipynb. Then, open the simulator and run it the training mode. Collect data by pressing record button followed by pressing space bar on the keyboard to store screenshots of the current car position. Doing this also stores the car's data in a csv file such as steering angle, speed and throttle. 
 
 ## Testing :
 The video given below shows the car driving itself in the autonomous mode on the simulator after the model has been trained. This output is seen by running the file testsimulation.ipynb followed by running the simulator in autonomous mode.
+
 
 
