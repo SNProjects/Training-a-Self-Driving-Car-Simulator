@@ -1,7 +1,7 @@
-<h1 align="center">Training-Self-Driving-Car-Simulator</h1>
+<h1 align="center">Training Udacity's Self Driving Car Simulator</h1>
 
-<div align= "center"><img src="https://github.com/stuti2403/Training-Self-Driving-Car-Simulator/blob/main/image.jpeg"/>
-  <h4>Training a Deep Learning model that would let a car drive itself in a self-driving car simulator.</h4>
+<div align= "center"> <h4>Training a Deep Learning neural network that would allow a car to drive itself in a self-driving car simulator.</h4>
+  <img src="https://github.com/stuti2403/Training-Self-Driving-Car-Simulator/blob/main/image.jpeg"/>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,9 @@ Training a self-driving car using a Convolutional Neural Network. The open sourc
 - [OpenCV](https://opencv.org/)
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
-- [Udacity Self Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
+- [Udacity-Self-Driving-Car-Simulator](https://github.com/udacity/self-driving-car-sim)
+- <!-- - [MobileNetV2](https://arxiv.org/abs/1801.04381) -->
+
 
 ## How to Install the simulator
 To install Udacity's Self Driving Car Simulator, follow the steps given in the following link:
