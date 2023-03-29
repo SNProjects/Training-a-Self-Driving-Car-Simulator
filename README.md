@@ -15,7 +15,6 @@ Training a self-driving car using a Convolutional Neural Network. The open sourc
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Udacity-Self-Driving-Car-Simulator](https://github.com/udacity/self-driving-car-sim)
-- <!-- - [MobileNetV2](https://arxiv.org/abs/1801.04381) -->
 
 
 ## How to Install the simulator
